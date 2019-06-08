@@ -21,10 +21,7 @@ This repository is about making my simple temprature and humidity sensor which c
 - After connection an authentication module will popup, otherwise browse to: 192.168.4.1 or check with a portscanner with IPadres is alive. 
 - In this authentication module you'll need to enter your network credentials. _You don't need to give 2 SSID, one is enough and remember this Wemos only supports 2.4Ghz network_.
 - Now search for this the Wemos in your network.
-- Browse to it's IPadres 
-
-![Configuration Module](image1)
-
+- Browse to it's IPadres and you will see this: [Configuration Home Screen](https://github.com/iMartzen/TempHumSensor/blob/master/configurationscreen.png)
 - General Configuration
     - Click on Configuration > Configuration Other 
     - Check if MQTT is enabled. 
@@ -59,5 +56,3 @@ Specs:
 - Length: 6 cm
 - Width: 3.5 cm
 - Heigth: 3 cm 
-
-[image1](https://github.com/iMartzen/TempHumSensor/blob/master/configurationscreen.png)
