@@ -1,4 +1,4 @@
-# Tempsensor
+# TempHumSensor
 This repository is about making my simple temprature and humidity sensor which connects via MQTT. 
 
 ## Parts 
